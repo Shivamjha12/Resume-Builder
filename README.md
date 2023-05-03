@@ -4,7 +4,7 @@ A Django webapp use to build a Resume. It allows the user to fill in their infor
 <ul>
 <li>Built with Python, Django, HTML, CSS, Bootstrap</li>
 <li>The webapp allows the user to fill in their profile , and then render it in a cv template. It allows user all over the world to build their resume without going through any stress.</li>
-<li>Technology Used: This webapp makes use of mostly Django. Django is a high-level Python web framework with pre-written composite codes for web development, thus easing the stress of coding on the developers. It is reassuringly secure and exceedingly scalable.</li>
+<li>Technology Used: This webapp makes use of mostly Django. Django is a high-level Python web framework with pre-written composite codes for web development, thus easing the stress of coding on the developers. It is reassuringly secure and exceedingly Scalable.</li>
 </ul>
 
 # Features
