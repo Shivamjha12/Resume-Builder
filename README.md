@@ -29,4 +29,4 @@ Resume Builder make use of django summernote which allows the user to customize 
 10. Run local Server  ```python manage.py runserver```
 11. Create superuser ```python manage.py createsuperuser``` or ```make su```
 # NOTE
-There is also admin privilege for superuser. It can be accessed by only the superuser. Passwords are hashed wich makes it more secure against threat. Only superuser can make a post.
+There is also admin privilege for superuser. It can be accessed by only the superuser. Passwords are hashed wich makes it more secure against threat. Only Superuser can make a post.
